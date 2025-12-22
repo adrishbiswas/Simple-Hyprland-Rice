@@ -1,0 +1,31 @@
+2025-12-14 20:50:11.557 [info] Extension host with pid 10156 started
+2025-12-14 20:50:11.557 [info] Skipping acquiring lock for /home/adrish/.config/Code/User/workspaceStorage/b53a51f476b8908e3612fd1730edb7ae.
+2025-12-14 20:50:12.321 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-14 20:50:12.423 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-14 20:50:12.497 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-12-14 20:50:13.356 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2025-12-14 20:50:14.949 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-14 20:50:15.353 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-14 20:50:15.614 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-14 20:50:15.815 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-14 20:50:16.402 [info] Eager extensions activated
+2025-12-14 20:50:16.507 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-14 20:50:16.514 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-14 20:50:16.620 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-14 20:50:17.717 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-14 20:50:22.031 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-14 20:50:22.132 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2025-12-14 20:50:31.765 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-14 20:50:31.851 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.G [as deactivate] (/home/adrish/.vscode/extensions/ms-python.vscode-python-envs-1.14.0-linux-x64/dist/extension.js:2:684166)
+	at HX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-14 20:50:31.854 [info] Extension host with pid 10156 exiting with code 0

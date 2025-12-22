@@ -1,0 +1,13 @@
+2025-12-11 18:34:19.333 [info] update#setState idle
+2025-12-11 18:34:22.600 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/618725e67565b290ba4da6fe2d29f8fa1d4e3622 - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-12-11 18:34:22.604 [error] update#isLatestVersion(): failed to check for updates
+2025-12-11 18:34:22.604 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:124722)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-11 18:34:49.342 [info] update#setState checking for updates
+2025-12-11 18:34:49.353 [error] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/618725e67565b290ba4da6fe2d29f8fa1d4e3622?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-12-11 18:34:49.355 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:124722)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-11 18:34:49.355 [info] update#setState idle
+2025-12-11 19:08:57.729 [info] Extension host with pid 804 exited with code: 0, signal: unknown.

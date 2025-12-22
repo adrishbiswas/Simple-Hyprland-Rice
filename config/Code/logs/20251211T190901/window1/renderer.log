@@ -1,0 +1,46 @@
+2025-12-11 19:09:04.315 [info] Started local extension host with pid 4179.
+2025-12-11 19:09:08.935 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-11 19:09:09.211 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-11 19:09:11.471 [info] [perf] Render performance baseline is 119ms
+2025-12-11 19:09:11.589 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at r8 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64420)
+    at new ld (file:///opt/visual-studio-code/resources/app/out/main.js:30:67800)
+    at new Hr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69238)
+    at ld.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:69015)
+    at y2.call (file:///opt/visual-studio-code/resources/app/out/main.js:91:107011)
+    at _f.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14882)
+    at _f.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14405)
+    at na.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13807)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2328)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2398)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2615)
+    at na.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5389)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2328)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2546)
+    at na.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5577)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2328)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2546)
+    at N (file:///opt/visual-studio-code/resources/app/out/main.js:28:7871)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106616)
+    at Session.emit (node:events:519:28)
+2025-12-11 19:09:31.717 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 19:11:36.364 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay
+2025-12-11 19:12:36.653 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 19:12:47.412 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 19:16:02.673 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 19:23:24.133 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 19:28:20.778 [error] [chat setup] signIn: error Error: Cancelled
+2025-12-11 19:28:23.602 [error] Offline: Offline: Offline: Offline: Offline
+    at oZe.L (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1359:35145)
+    at async oZe.K (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1359:33869)
+    at async oZe.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1359:24589)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1359:23954
+    at async Promise.all (index 0)
+    at async oZe.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1359:23908)
+    at async oZe.getExtensions (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1359:22571)
+    at async ept.install (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2511:32093)
+    at async pft.J (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2255:22027)
+2025-12-11 19:31:38.501 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-11 19:31:51.921 [error] An unknown error occurred. Please consult the log for more details.

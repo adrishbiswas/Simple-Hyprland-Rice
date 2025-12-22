@@ -1,0 +1,9 @@
+2025-12-11 18:54:01.879 [info] Native locator: Refresh started
+2025-12-11 18:54:02.131 [info] Native locator: Refresh started
+2025-12-11 18:54:02.215 [info] > pyenv which python
+2025-12-11 18:54:02.215 [info] cwd: .
+2025-12-11 18:54:03.170 [info] Native locator: Refresh finished in 1275 ms
+2025-12-11 18:54:03.215 [info] Python interpreter path: /usr/bin/python
+2025-12-11 18:54:07.530 [info] Starting Pylance language server.
+2025-12-11 19:04:03.673 [info] CreateEnv Trigger - Skipping for /home/adrish/Codes/range().py
+2025-12-11 19:08:37.011 [error] Unable to find workspace for given file

@@ -1,0 +1,16 @@
+cmd open ${{
+    case "$(file --mime-type -Lb "$f")" in
+        text/*|application/json)
+            setsid xed "$f" >/dev/null 2>&1 < /dev/null & ;;
+        *)
+            xdg-open "$f" >/dev/null 2>&1 & ;;
+    esac
+}}
+map D delete
+
+cmd mkdir %{{
+    printf "Make directory: "
+    read ans
+    mkdir $ans
+}}
+map M mkdir

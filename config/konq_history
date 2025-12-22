@@ -1,0 +1,6 @@
+[History]
+CompletionItems=unused
+
+[Location Bar]
+ComboContents[$e]=https://google.com
+ComboIconCache[$e]=https://google.com,text-html

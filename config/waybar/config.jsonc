@@ -1,0 +1,129 @@
+{
+  "layer": "bottom",
+  "position": "top",
+  "height": 10,
+  "spacing": 2,
+  "exclusive": true,
+  "gtk-layer-shell": true,
+  "passthrough": false,
+  "fixed-center": true,
+  "modules-left": ["custom/launcher", "hyprland/workspaces", "hyprland/window"],
+  "modules-right": [
+    "cpu",
+    "memory",
+    "pulseaudio",
+    "battery",
+    "clock#simpleclock",
+    "tray",
+    "network",
+    "custom/bluetooth",
+    "custom/power",
+  ],
+
+"custom/launcher": {
+  "format": "Rofi",
+  "tooltip": false,
+  "on-click": "rofi -show drun",
+  "interval": 0
+},
+  "hyprland/workspaces": {
+    "on-click": "activate",
+    "format": "{id}",
+    "all-outputs": true,
+    "disable-scroll": false,
+    "active-only": false,
+  },
+  "hyprland/window": {
+    "format": "{title}"
+  },
+  "tray": {
+    "show-passive-items": true,
+    "spacing": 10,
+  },
+  "clock#simpleclock": {
+    "tooltip": false,
+    "format": " {:%H:%M}",
+  },
+   "battery": {
+        "format": "{capacity}% {icon}",
+        "format-icons": {
+            "charging": [
+                "󰢜",
+                "󰂆",
+                "󰂇",
+                "󰂈",
+                "󰢝",
+                "󰂉",
+                "󰢞",
+                "󰂊",
+                "󰂋",
+                "󰂅"
+            ],
+            "default": [
+                "󰁺",
+                "󰁻",
+                "󰁼",
+                "󰁽",
+                "󰁾",
+                "󰁿",
+                "󰂀",
+                "󰂁",
+                "󰂂",
+                "󰁹"
+            ]
+        },
+        "interval": 5,
+        "states": {
+            "warning": 20,
+            "critical": 10
+        },
+        "tooltip": false,
+        "on-click": "~/.config/rofi/powerplanmenu.sh",
+    },
+ "cpu": {
+    "format": " {usage}%",
+    "tooltip": true,
+    "interval": 1,
+},
+  "memory": {
+    "format": " {used:0.1f}Gi",
+},
+  "pulseaudio": {
+    "format": "{icon} {volume}%",
+    "format-muted": "  muted",
+    "format-icons": {
+      "headphone": "",
+      "default": [" ", " ", " "],
+    },
+    "on-click": "~/.config/waybar/scripts/wiremix-float",
+  },
+  "custom/sep": {
+    "format": "|",
+    "tooltip": false,
+  },
+  "custom/power": {
+  "tooltip": false,
+  "on-click": "~/.config/rofi/powermenu.sh",
+  "format": "⏻"
+},
+  "network": {
+    "interface": "wlan0",
+    "format-wifi": "  {essid}",
+    "format-ethernet": "󰈁 Ethernet",
+    "format-disconnected": "  Disconnected",
+    "tooltip": false,
+    "on-click": "~/.config/waybar/scripts/impala-float"
+},
+
+  "custom/bluetooth": {
+    "exec": "~/.config/waybar/scripts/bt.sh",
+    "interval": 5,
+    "tooltip": false,
+    "on-click": "~/.config/waybar/scripts/bluetui-float",
+    "format": "{}"
+},
+  "on-click": "sleep 0.1 && swaync-client -t -sw",
+  "return-type": "json",
+    "tooltip": false,
+  },
+}

@@ -1,0 +1,20 @@
+2025-12-11 19:09:09.906 [info] Native locator: Refresh started
+2025-12-11 19:09:10.774 [info] Native locator: Refresh started
+2025-12-11 19:09:11.385 [info] > pyenv which python
+2025-12-11 19:09:11.385 [info] cwd: .
+2025-12-11 19:09:11.528 [info] Native locator: Refresh finished in 1944 ms
+2025-12-11 19:09:11.536 [info] Python interpreter path: /usr/bin/python
+2025-12-11 19:09:16.152 [info] Starting Pylance language server.
+2025-12-11 19:09:38.445 [info] Python interpreter path: /bin/python
+2025-12-11 19:11:57.109 [error] Unable to find workspace for given file
+2025-12-11 19:12:10.615 [error] Unable to find workspace for given file
+2025-12-11 19:12:33.971 [error] Unable to find workspace for given file
+2025-12-11 19:12:42.345 [error] Unable to find workspace for given file
+2025-12-11 19:12:52.440 [error] Unable to find workspace for given file
+2025-12-11 19:13:00.107 [error] Unable to find workspace for given file
+2025-12-11 19:13:01.257 [error] Unable to find workspace for given file
+2025-12-11 19:15:47.584 [error] Unable to find workspace for given file
+2025-12-11 19:16:17.534 [error] Unable to find workspace for given file
+2025-12-11 19:16:23.746 [error] Unable to find workspace for given file
+2025-12-11 19:20:29.776 [info] CreateEnv Trigger - Skipping for /home/adrish/Codes/nnupton.py
+2025-12-11 19:27:09.670 [info] Send text to terminal: /bin/python /home/adrish/Codes/printseries.py

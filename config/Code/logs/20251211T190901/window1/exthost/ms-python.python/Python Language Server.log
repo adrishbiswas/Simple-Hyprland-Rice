@@ -1,0 +1,54 @@
+2025-12-11 19:09:12.253 [info] Client: Pylance client (2025.10.4) started with python extension (2025.20.0)
+2025-12-11 19:09:13.644 [info] (4414): Server root directory: file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-11 19:09:13.646 [info] (4414): Pylance language server 2025.10.4 (pyright version 1.1.407, commit 906e40aa) starting
+2025-12-11 19:09:13.658 [info] (4414): Starting service instance "Codes" for workspace "/home/adrish/Codes"
+2025-12-11 19:09:16.061 [info] (4414): Loading background bundle file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into file:///home/adrish/Codes...
+2025-12-11 19:09:16.336 [info] (4414): Starting Mcp server id:3227 ...
+2025-12-11 19:09:16.425 [info] (4414): FG(Codes): Setting environmentName for service "Codes": "3.13.7 (global)"
+2025-12-11 19:09:16.426 [info] (4414): FG(Codes): Setting pythonPath for service "Codes": "/bin/python"
+2025-12-11 19:09:16.427 [info] (4414): FG(Codes): No include entries specified; assuming /home/adrish/Codes
+2025-12-11 19:09:16.432 [info] (4414): FG(Codes): Auto-excluding **/node_modules
+2025-12-11 19:09:16.433 [info] (4414): FG(Codes): Auto-excluding **/__pycache__
+2025-12-11 19:09:16.434 [info] (4414): FG(Codes): Auto-excluding **/.*
+2025-12-11 19:09:16.512 [info] (4414): FG(Codes): Assuming Python version 3.13.7.final.0
+2025-12-11 19:09:16.756 [info] (4414): FG(Codes): Found 2 source files
+2025-12-11 19:09:16.767 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:09:18.506 [info] (4414): PQ(Codes): Priority queue background worker(2) root directory: file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-11 19:09:18.509 [info] (4414): PQ(Codes): Priority queue background worker(2) started
+2025-12-11 19:09:19.203 [info] (4414): IDX(Codes): Indexer background runner(3) root directory: file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist (index)
+2025-12-11 19:09:19.205 [info] (4414): IDX(Codes): Indexing(3) started
+2025-12-11 19:09:19.276 [info] (4414): BG(Codes): Loaded external background bundle file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2025-12-11 19:09:20.403 [info] (4414): IDX(Codes): scanned(3) 18 files over 1 exec env
+2025-12-11 19:09:20.912 [info] (4414): IDX(Codes): indexed(3) 18 files over 1 exec env
+2025-12-11 19:09:20.916 [info] (4414): IDX(Codes): Indexing finished(3).
+2025-12-11 19:10:15.721 [info] (4414): FG(Codes): Found 3 source files
+2025-12-11 19:11:57.177 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:12:10.486 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:12:33.852 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:12:42.257 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:12:52.311 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:12:59.993 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:13:01.135 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:14:44.818 [info] (4414): Starting service instance "<default>" for workspace ""
+2025-12-11 19:14:44.819 [info] (4414): Loading background bundle file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into ...
+2025-12-11 19:14:44.938 [info] (4414): FG(<default>): Setting environmentName for service "<default>": "3.13.7 (global)"
+2025-12-11 19:14:44.938 [info] (4414): FG(<default>): Setting pythonPath for service "<default>": "/bin/python"
+2025-12-11 19:14:44.938 [info] (4414): FG(<default>): No include entries specified; assuming /<default workspace root>
+2025-12-11 19:14:44.939 [info] (4414): FG(<default>): Auto-excluding **/node_modules
+2025-12-11 19:14:44.939 [info] (4414): FG(<default>): Auto-excluding **/__pycache__
+2025-12-11 19:14:44.940 [info] (4414): FG(<default>): Auto-excluding **/.*
+2025-12-11 19:14:45.044 [info] (4414): FG(<default>): Assuming Python version 3.13.7.final.0
+2025-12-11 19:14:45.252 [error] (4414): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2025-12-11 19:14:45.253 [info] (4414): FG(<default>): No source files found.
+2025-12-11 19:14:46.723 [info] (4414): PQ(<default>): Priority queue background worker(5) root directory: file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-11 19:14:46.726 [info] (4414): PQ(<default>): Priority queue background worker(5) started
+2025-12-11 19:14:47.322 [info] (4414): BG(<default>): Loaded external background bundle file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2025-12-11 19:15:47.496 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:15:47.496 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:16:17.481 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:16:17.484 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:16:23.619 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:16:23.620 [info] (4414): Settings have not changed. Skipping update.
+2025-12-11 19:24:46.311 [info] (4414): FG(Codes): Found 4 source files
+2025-12-11 19:28:52.151 [info] (4414): FG(Codes): Found 5 source files
+2025-12-11 19:46:59.952 [info] (4414): FG(Codes): Found 6 source files

@@ -1,0 +1,7 @@
+2025-12-12 14:57:44.470 [info] Native locator: Refresh started
+2025-12-12 14:57:44.678 [info] Native locator: Refresh started
+2025-12-12 14:57:45.182 [info] > pyenv which python
+2025-12-12 14:57:45.182 [info] cwd: .
+2025-12-12 14:57:45.327 [info] Native locator: Refresh finished in 1850 ms
+2025-12-12 14:57:45.335 [info] Python interpreter path: /bin/python
+2025-12-12 14:57:50.217 [info] Starting Pylance language server.

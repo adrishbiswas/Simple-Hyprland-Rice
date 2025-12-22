@@ -1,0 +1,10 @@
+[Added Associations]
+application/schema+json=nvim-3.desktop;nvim-2.desktop;
+image/jpeg=loupe-7.desktop;
+image/png=loupe-6.desktop;loupe-5.desktop;
+
+[Default Applications]
+application/schema+json=nvim-3.desktop;
+image/jpeg=loupe-7.desktop;
+image/png=loupe-6.desktop;
+text/plain=org.freedesktop.TextEditor.desktop

@@ -1,0 +1,38 @@
+2025-12-11 18:54:04.165 [info] Client: Pylance client (2025.10.4) started with python extension (2025.20.0)
+2025-12-11 18:54:05.605 [info] (2583): Server root directory: file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-11 18:54:05.607 [info] (2583): Pylance language server 2025.10.4 (pyright version 1.1.407, commit 906e40aa) starting
+2025-12-11 18:54:05.620 [info] (2583): Starting service instance "Codes" for workspace "/home/adrish/Codes"
+2025-12-11 18:54:07.473 [info] (2583): Loading background bundle file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into file:///home/adrish/Codes...
+2025-12-11 18:54:07.681 [info] (2583): FG(Codes): Setting environmentName for service "Codes": "3.13.7 (global)"
+2025-12-11 18:54:07.681 [info] (2583): FG(Codes): Setting pythonPath for service "Codes": "/usr/bin/python"
+2025-12-11 18:54:07.682 [info] (2583): FG(Codes): No include entries specified; assuming /home/adrish/Codes
+2025-12-11 18:54:07.684 [info] (2583): FG(Codes): Auto-excluding **/node_modules
+2025-12-11 18:54:07.685 [info] (2583): FG(Codes): Auto-excluding **/__pycache__
+2025-12-11 18:54:07.685 [info] (2583): FG(Codes): Auto-excluding **/.*
+2025-12-11 18:54:07.739 [info] (2583): FG(Codes): Assuming Python version 3.13.7.final.0
+2025-12-11 18:54:07.959 [info] (2583): FG(Codes): Found 1 source file
+2025-12-11 18:54:07.972 [info] (2583): Settings have not changed. Skipping update.
+2025-12-11 18:54:09.285 [info] (2583): Starting Mcp server id:3725 ...
+2025-12-11 18:54:10.081 [info] (2583): PQ(Codes): Priority queue background worker(2) root directory: file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-11 18:54:10.084 [info] (2583): PQ(Codes): Priority queue background worker(2) started
+2025-12-11 18:54:10.566 [info] (2583): IDX(Codes): Indexer background runner(3) root directory: file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist (index)
+2025-12-11 18:54:10.567 [info] (2583): IDX(Codes): Indexing(3) started
+2025-12-11 18:54:10.838 [info] (2583): BG(Codes): Loaded external background bundle file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2025-12-11 18:54:12.203 [info] (2583): IDX(Codes): scanned(3) 18 files over 1 exec env
+2025-12-11 18:54:13.209 [info] (2583): IDX(Codes): indexed(3) 18 files over 1 exec env
+2025-12-11 18:54:13.213 [info] (2583): IDX(Codes): Indexing finished(3).
+2025-12-11 18:54:17.122 [info] (2583): Starting service instance "<default>" for workspace ""
+2025-12-11 18:54:17.123 [info] (2583): Loading background bundle file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js into ...
+2025-12-11 18:54:17.343 [info] (2583): FG(<default>): Setting environmentName for service "<default>": "3.13.7 (global)"
+2025-12-11 18:54:17.344 [info] (2583): FG(<default>): Setting pythonPath for service "<default>": "/usr/bin/python"
+2025-12-11 18:54:17.352 [info] (2583): FG(<default>): No include entries specified; assuming /<default workspace root>
+2025-12-11 18:54:17.354 [info] (2583): FG(<default>): Auto-excluding **/node_modules
+2025-12-11 18:54:17.370 [info] (2583): FG(<default>): Auto-excluding **/__pycache__
+2025-12-11 18:54:17.371 [info] (2583): FG(<default>): Auto-excluding **/.*
+2025-12-11 18:54:17.514 [info] (2583): FG(<default>): Assuming Python version 3.13.7.final.0
+2025-12-11 18:54:17.878 [error] (2583): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2025-12-11 18:54:17.880 [info] (2583): FG(<default>): No source files found.
+2025-12-11 18:54:19.028 [info] (2583): PQ(<default>): Priority queue background worker(5) root directory: file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist
+2025-12-11 18:54:19.032 [info] (2583): PQ(<default>): Priority queue background worker(5) started
+2025-12-11 18:54:19.718 [info] (2583): BG(<default>): Loaded external background bundle file:///home/adrish/.vscode/extensions/ms-python.vscode-pylance-2025.10.4/dist/copilot-background.bundle.js. 
+2025-12-11 18:59:59.859 [info] (2583): FG(Codes): Found 2 source files

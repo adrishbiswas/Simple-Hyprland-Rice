@@ -1,0 +1,6 @@
+
+@theme "/home/adrish/.local/share/rofi/themes/nord.rasi"
+
+configuration {
+   display-drun: "Search";
+}

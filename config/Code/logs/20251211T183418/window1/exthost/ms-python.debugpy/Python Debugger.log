@@ -1,0 +1,32 @@
+2025-12-11 18:54:10.759 [info] legacyGetInterpreterDetails: executable='/usr/bin/python' resource='/home/adrish/Codes/loop.py'
+2025-12-11 18:54:10.759 [info] resolveAndUpdatePythonPath - Initial state: pythonPath='undefined', python='undefined', debugAdapterPython='undefined', debugLauncherPython='undefined', workspaceFolder='/home/adrish/Codes'resolvedInterpreterPath='/usr/bin/python'
+2025-12-11 18:54:10.775 [info] Resolving launch configuration with substituted variables
+2025-12-11 18:54:10.808 [info] createDebugAdapterDescriptor: request='launch' name='Launch'
+2025-12-11 18:54:10.811 [info] legacyResolveEnvironment: Resolving environment '/usr/bin/python'
+2025-12-11 18:54:10.811 [info] legacyResolveEnvironment: Resolved executable='/usr/bin/python'
+2025-12-11 18:54:10.811 [info] resolveEnvironment: legacy resolved executable='/usr/bin/python' version='3.13.7'
+2025-12-11 18:54:10.812 [info] getExecutableCommand: executable='/usr/bin/python' version='3.13.7'
+2025-12-11 18:54:10.813 [info] createDebugAdapterDescriptor: python command parts='/usr/bin/python'
+2025-12-11 18:54:10.813 [info] DAP Server launched with command: /usr/bin/python /home/adrish/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64/bundled/libs/debugpy/adapter
+2025-12-11 18:54:11.317 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 18:54:11.325 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 18:54:11.326 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 18:54:17.261 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 18:54:17.271 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 18:54:17.429 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 19:03:49.529 [info] legacyGetInterpreterDetails: executable='/usr/bin/python' resource='/home/adrish/Codes/range().py'
+2025-12-11 19:03:49.529 [info] resolveAndUpdatePythonPath - Initial state: pythonPath='undefined', python='undefined', debugAdapterPython='undefined', debugLauncherPython='undefined', workspaceFolder='/home/adrish/Codes'resolvedInterpreterPath='/usr/bin/python'
+2025-12-11 19:03:49.535 [info] Resolving launch configuration with substituted variables
+2025-12-11 19:03:49.558 [info] createDebugAdapterDescriptor: request='launch' name='Launch'
+2025-12-11 19:03:49.560 [info] legacyResolveEnvironment: Resolving environment '/usr/bin/python'
+2025-12-11 19:03:49.560 [info] legacyResolveEnvironment: Resolved executable='/usr/bin/python'
+2025-12-11 19:03:49.560 [info] resolveEnvironment: legacy resolved executable='/usr/bin/python' version='3.13.7'
+2025-12-11 19:03:49.561 [info] getExecutableCommand: executable='/usr/bin/python' version='3.13.7'
+2025-12-11 19:03:49.562 [info] createDebugAdapterDescriptor: python command parts='/usr/bin/python'
+2025-12-11 19:03:49.562 [info] DAP Server launched with command: /usr/bin/python /home/adrish/.vscode/extensions/ms-python.debugpy-2025.16.0-linux-x64/bundled/libs/debugpy/adapter
+2025-12-11 19:03:49.754 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 19:03:49.755 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 19:03:49.756 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 19:03:50.115 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 19:03:50.134 [info] Received 'debugpySockets' event from debugpy.
+2025-12-11 19:03:50.143 [info] Received 'debugpySockets' event from debugpy.

@@ -1,0 +1,30 @@
+2025-12-12 14:57:37.091 [info] Started local extension host with pid 4031.
+2025-12-12 14:57:42.826 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-12 14:57:43.125 [info] Auto updating outdated extensions. ms-python.vscode-python-envs
+2025-12-12 14:57:43.529 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-12 14:57:45.467 [error] [UriError]: Scheme contains illegal characters.: Error: [UriError]: Scheme contains illegal characters.
+    at r8 (file:///opt/visual-studio-code/resources/app/out/main.js:30:64420)
+    at new ld (file:///opt/visual-studio-code/resources/app/out/main.js:30:67800)
+    at new Hr (file:///opt/visual-studio-code/resources/app/out/main.js:30:69238)
+    at ld.revive (file:///opt/visual-studio-code/resources/app/out/main.js:30:69015)
+    at y2.call (file:///opt/visual-studio-code/resources/app/out/main.js:91:107011)
+    at _f.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:14882)
+    at _f.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:14405)
+    at na.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:13807)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2328)
+    at P.D (file:///opt/visual-studio-code/resources/app/out/main.js:30:2398)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2615)
+    at na.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5389)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2328)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2546)
+    at na.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5577)
+    at P.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2328)
+    at P.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2546)
+    at N (file:///opt/visual-studio-code/resources/app/out/main.js:28:7871)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:106616)
+    at Session.emit (node:events:519:28)
+2025-12-12 14:57:46.270 [info] [perf] Render performance baseline is 148ms
+2025-12-12 14:57:49.999 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay
+2025-12-12 14:57:52.144 [error] An unknown error occurred. Please consult the log for more details.
