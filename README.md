@@ -65,100 +65,21 @@
 #### 🆕 Installation Guide --
 
  **STEP 01 -**
+ 
 ```bash
-sudo pacman -S rofi waybar swww cmatrix cowsay alacritty ttf-jetbrains-mono-nerd power-profiles-daemon impala bluetui witemix
+sudo pacman -S rofi waybar swww cmatrix cowsay alacritty ttf-jetbrains-mono-nerd power-profiles-daemon impala bluetui wiremix
+iwd
 ```
+-This command will install all the dependencies for dotfiles.
 
  **STEP 02 -**
 
 ```bash
-git clone https://github.com/adrishbiswas/Simple-Hyprland-Rice
+cd ~ && git clone https://github.com/adrishbiswas/Simple-Hyprland-Rice
 ```
 
-- This connand will clone the dotfiles to the HOME directory.
-
-#### ✨ Customize the packages to be installed
-
-- inside the install-scripts directory, you can edit 00-hypr-pkgs.sh. Care though as the Hyprland Dots may not work properly!
-
-#### 🚩 Switching to SDDM assuming you have GDM installed and running
-
-- if you really want switch to SDDM from GDM, you need to disable the gdm first.
-- `sudo systemctl disable gdm.service` then reboot
-- after reboot, need to ran the install script via tty. So suggest download the install script first. Then disable gdm. reboot and once logged in, cd into Distro-Hyprland then `./install.sh` and then choose SDDM and SDDM theme in the options.
-- NOTE: Distro-Hyprland is Arch-Hyprland, or Fedora-Hyprland .. depends on which install scripts you downloaded.
-
-#### 💫 SDDM and GTK Themes offered
-
-- If you opted to install SDDM theme, here's the [`LINK`](https://github.com/JaKooLit/simple-sddm-2) which is a modified fork of [`LINK`](https://github.com/Keyitdev/sddm-astronaut-theme)
-- If you opted to install GTK Themes, Icons, here's the [`LINK`](https://github.com/JaKooLit/GTK-themes-icons). This also includes Bibata Modern Ice cursor.
-
-#### 👀 Nvidia GPU Owners.
-
-- By default, nvidia-dkms will be installed. and only supports GTX 900 and newer. If required to install older driver, edit the nvidia.sh in install-scripts directory
-
-> [!IMPORTANT]
-> If you want to use nouveau driver, dont choose nvidia in the option. This is because the nvidia installer part, it will blacklist nouveau. Hyprland will still be installed but it will skip blacklisting nouveau.
-
-- After installation, check [`THIS`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Notes_to_remember#--for-nvidia-gpu-users)
-
-## ✨ Auto clone and install
-
-> [!CAUTION]
-> If you are using FISH SHELL, DO NOT use this function. Clone and ran install.sh instead
-
-- you can use this command to automatically clone the installer and ran the script for you
-- NOTE: `curl` package is required before running this command
-
-```bash
-sh <(curl -L https://raw.githubusercontent.com/JaKooLit/Arch-Hyprland/main/auto-install.sh)
-```
-
-## ✨ to use this script
-
-- clone this repo (latest commit only) to reduce file size download by using git. Change directory, make executable and run the script
-
-```bash
-git clone --depth=1 https://github.com/JaKooLit/Arch-Hyprland.git ~/Arch-Hyprland
-cd ~/Arch-Hyprland
-chmod +x install.sh
-./install.sh
-```
-
-### 💥 💥 UNINSTALL SCRIPT / Removal of Config Files
-
-- 11 March 2025, due to popular request, created a guided `uninstall.sh` script. USE this with caution as it may render your system unstable.
-- I will not be responsible if your system breaks
-- The best still to revert to previous state of your system is via `timeshift or snapper`
-
-#### ✨ for ZSH and OH-MY-ZSH installation
-
-> installer should auto change your default shell to zsh. However, if it does not, do this
-
-```bash
-chsh -s $(which zsh)
-zsh
-source ~/.zshrc
-```
-
-- reboot or logout
-- by default `agnosterzak` theme is installed. Which is from external oh-my-zsh theme. You can find more themes from this [`OH-MY-ZSH-THEMES`](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes)
-- to change the theme, `SUPER SHIFT O` , choose desired theme, and close and open terminal.
-- or manually edit `~/.zshrc` . Look for ZSH_THEME="desired theme"
-
-#### 🎞️ AGS Overview DEMO
-
-- in case you wonder, here is a short demo of AGS overview [Youtube LINK](https://youtu.be/zY5SLNPBJTs)
-
-#### ✨ TO DO once installation done and dotfiles copied
-
-- SUPER H for HINT or click on the waybar HINT! Button
-- Head over to [KooL Hyprland WIKI](https://github.com/JaKooLit/Hyprland-Dots/wiki)
-
-#### 🙋 Got a questions regarding the Hyprland Dots or configurations? 🙋
-
-- Head over to wiki Link [`WIKI`](https://github.com/JaKooLit/Hyprland-Dots/wiki)
-
+- This command will clone the dotfiles to the HOME directory.
+- 
 #### ⌨ Keybinds
 
 - Keybinds [`CLICK`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds)
