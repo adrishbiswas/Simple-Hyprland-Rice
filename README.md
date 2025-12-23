@@ -66,8 +66,9 @@
 
 - This install script is intended for atleast Server type / Minimal Arch Linux installed.
 
-> [!NOTE]
-> 🔘 Pipewire and Pipewire audio
+```bash
+sh <(curl -L https://raw.githubusercontent.com/JaKooLit/Arch-Hyprland/main/auto-install.sh)
+```
 
 - This script will install pipewire and will also disable or will uninstall pulseaudio. If you dont want it, edit install.sh, about line 191 and comment the line `execute_script "pipewire.sh"` or you can simply just delete pipewire.sh in install-scripts directory before installing.
 
