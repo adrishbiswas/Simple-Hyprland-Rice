@@ -53,6 +53,9 @@
 - As the Hyprland-Dots are constantly evolving, some of the screenshots may be outdated.
 - This doesn't come with a wallpaper set you can find some nice wallpapers here --> [`REPO`](https://github.com/JaKooLit/Wallpaper-Bank)
 
+> [!IMPORTANT]
+> Make sure you understand the install process and not paste the commands blindly.
+
 > [!CAUTION]
 > Make sure that your **Arch Linux** installation is fresh and fully updated or it will cause issuses.
 
