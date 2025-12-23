@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/assets/Tidling-Windows.png">
+<img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/Tidling-Windows.png">
 
 </div>
 
