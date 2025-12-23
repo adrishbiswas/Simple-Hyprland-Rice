@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
- Adrish's Hyprland-Dots related Links 
+ Adrish's Hyprland-Dots Related Links 
 <br/>
 </div>
 <div align="center">
