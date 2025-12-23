@@ -62,15 +62,17 @@
 > [!CAUTION]
 > Download this dotfiles on a directory where you have write permissions. ie. HOME. Or any directory within your home directory. Else moving dotfiles will be **PAIN**.
 
-#### 🆕 Prerequisites
+#### 🆕 Installation Guide --
 
 - This install script is intended for atleast Server type / Minimal Arch Linux installed.
 
+ **STEP 01 -**
+
 ```bash
-sh <(curl -L https://raw.githubusercontent.com/JaKooLit/Arch-Hyprland/main/auto-install.sh)
+git clone https://github.com/adrishbiswas/Simple-Hyprland-Rice
 ```
 
-- This script will install pipewire and will also disable or will uninstall pulseaudio. If you dont want it, edit install.sh, about line 191 and comment the line `execute_script "pipewire.sh"` or you can simply just delete pipewire.sh in install-scripts directory before installing.
+- This connand will clone the dotfiles to the HOME directory.
 
 #### ✨ Customize the packages to be installed
 
