@@ -112,8 +112,8 @@ systemctl reboot
 
 <p align="center">
 
-<img src="Static-Wallpapers/051-falltree.png" width="300">
-<img src="Static-Wallpapers/Abstract - Nature.jpg" width="300">
+<img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/Bluetooth-Audio-Wifi.png" width="300">
+<img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/Hyprland-With-Fastfetch.png" width="300">
 <img src="Static-Wallpapers/Anime - Landscape.jpeg" width="300">
 <img src="Static-Wallpapers/Anime-City-Night.png" width="300">
 <img src="Static-Wallpapers/Anime-Girl-Night-Sky.jpg" width="300">
