@@ -50,6 +50,7 @@
 
 </div>
 
+
 #### 🆕 Installation Guide --
 
 **STEP 01 -**
@@ -87,51 +88,9 @@ systemctl reboot
 - Keybinds [`CLICK`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds)
 
 > [!TIP]
-> 119
+> Remember **SUPER KEY = WINDOWS KEY**
 
-#### 🔧 Proper way to re-installing a particular script from install-scripts directory
-
-- 
-- 
-  
-- more info from the hyprland wiki [`Hyprland Wiki Link`](https://wiki.hyprland.org/FAQ/#my-external-monitor-is-blank--doesnt-render--receives-no-signal-laptop)
-
-- reports from a member of discord for Nvidia for additional env's
-- remove # from the following env's on
-
-```
-env = GBM_BACKEND,nvidia-drm
-env = WLR_RENDERER_ALLOW_SOFTWARE,1
-```
-
-#### ❗ other known issues
-
-- [ ] If you are using this script on an Arch-Based distros like Arco linux, or cachy OS or EOS or Manjaro, make sure to install pipewire, pipewire-pulse & pipewire-audio first. Arco Linux, on some of their ISO's still shipped with pulseaudio as audio backend. You will experience getting "stuck" on installation.
-- [ ] To install pipewire and its services , `sudo pacman -S pipewire wireplumber pipewire-audio pipewire-pulse` . When prompted, remove / replace pulseaudio. After that, you can ran `./install.sh`
-- [ ] installing of cava-git on a newly installed Arch makes the install keep hanging. Switched back to cava. After booting and logged in, if cava dont work, replace it cava-git `yay -S cava-git` or `paru -S cava-git`
-  > [!NOTE]
-  > Auto start of Hyprland after login (no SDDM or GDM or any login managers)
-- [ ] This was disabled a few days ago. (19 May 2024). This was because some users, after they used the Distro-Hyprland scripts with other DE (gnome-wayland or plasma-wayland), if they choose to login into gnome-wayland for example, Hyprland is starting.
-- [ ] to avoid this, I disabled it. You can re-enable again by editing `~/.zprofile` . Remove all the # on the first lines
-- [ ] ROFI issues (scaling, unexplained scaling etc). This is most likely to experience if you are installing on a system where rofi is currently installed. To fix it uninstall rofi and install rofi-wayland . `sudo pacman -Rns rofi` . Install rofi-wayland with `sudo pacman -S rofi-wayland`. Rofi-wayland is compatible with x11 so no need to worry.
-
-#### 🫥 Improving performance for Older Nvidia Cards using driver 470
-
-- [`SEE HERE`](https://github.com/JaKooLit/Hyprland-Dots/discussions/123#discussion-6035205)
-
-#### 📒 Final Notes
-
-- join my discord channel [`Discord`](https://discord.com/invite/kool-tech-world)
-- Feel free to copy, re-distribute, and use this script however you want. Would appreciate if you give me some loves by crediting my work :)
-
-#### ✍️ Contributing
-
-- As stated above, these script does not contain actual config files. These are only the installer of packages
-- If you want to contribute and/or test the Hyprland-Dotfiles (development branch), [`Hyprland-Dots-Development`](https://github.com/JaKooLit/Hyprland-Dots/tree/development)
-- Want to contribute on KooL-Hyprland-Dots Click [`HERE`](https://github.com/JaKooLit/Hyprland-Dots/blob/main/CONTRIBUTING.md) for a guide how to contribute
-- Want to contribute on This Installer? Click [`HERE`](https://github.com/JaKooLit/Arch-Hyprland/blob/main/CONTRIBUTING.md) for a guide how to contribute
-
-#### 👍👍👍 Thanks and Credits!
+#### Thanks and Credits!
 
 - [`Hyprland`](https://hyprland.org/) Of course to Hyprland and @vaxerski for this awesome Dynamic Tiling Manager.
 
@@ -139,9 +98,9 @@ env = WLR_RENDERER_ALLOW_SOFTWARE,1
 
 - a Star on my Github repos would be nice 🌟
 
-- Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@Ja.KooLit)
+- Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@adrish.official)
 
-- you can also give support through coffee's or btc 😊
+- you can also give support through coffee's or btc 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jakoolit)
 
