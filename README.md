@@ -46,18 +46,11 @@
 
 <div align="center">
 
-
+(_)
 
 </div>
 
-### Gallery and Videos
-
-#### 🎥 Feb 2025 Video explanation of installation with preset
-
-- [YOUTUBE-LINK](https://youtu.be/wQ70lo7P6vA?si=_QcbrNKh_Bg0L3wC)
-- [YOUTUBE-Hyprland-Playlist](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t)
-
-### 🪧🪧🪧 ANNOUNCEMENT 🪧🪧🪧
+###  ANNOUNCEMENT 
 
 - This Repo does not contain Hyprland Dots or configs! Dotfiles can be checked here [`Hyprland-Dots`](https://github.com/JaKooLit/Hyprland-Dots) . During installation, if you opt to copy pre-configured dots, it will be downloaded from that centralized repo.
 - Hyprland-Dots use are constantly evolving / improving. you can check CHANGELOGS here [`Hyprland-Dots-Changelogs`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Changelogs)
