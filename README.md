@@ -1,6 +1,6 @@
 <div align="center">
 
-#  ** KooL's Arch - Hyprland Install Script **
+#   Adrish's Arch - Hyprland Dotfiles
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="400" />
