@@ -92,71 +92,20 @@ mv ~/Simple-Hyprland-Rice/{local,.local} ~/Simple-Hyprland-Rice/{config,.config}
 ```bash
 systemctl reboot
 ```
-- Reboot the system.
+- Reboots the system.
+
 #### ⌨ Keybinds
 
 - Keybinds [`CLICK`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds)
 
 > [!TIP]
-> KooL Hyprland has a searchable keybind function via rofi. (SUPER SHIFT K) or right click the `HINTS` waybar button
-
-#### 🔄 switching between Hyprland-git and none Hyprland-git
-
-- you can use my prepared script [`LINK`](https://github.com/JaKooLit/Arch-Hyprland/tree/main/assets/hyprland-install)
-- Readme is also there
-
-#### 🙋 👋 Having issues or questions?
-
-- for the install part, kindly open issue on this repo
-- for the Pre-configured Hyprland dots / configuration, submit issue [`here`](https://github.com/JaKooLit/Hyprland-Dots/issues)
+> 119
 
 #### 🔧 Proper way to re-installing a particular script from install-scripts directory
 
-- CD into Arch-Hyprland directory and then ran the below command.
-- i.e. `./install-scripts/gtk-themes.sh` - For reinstall GTK Themes or
-- `./install-scripts/sddm.sh` - For reinstall sddm
-
-> [!IMPORTANT]
-> DO NOT cd into install-scripts directory as script will most likely to fail
-#### 🛠️ Optional system monitor scripts (cross-distro compatible)
-- These installer helpers will set up user-level services and install required packages automatically.
-- Works on Fedora, Arch, and other distributions using standard tools.
-- Re-run any time from the repo root (do not `cd` into `install-scripts`).
-
-- `./install-scripts/battery-monitor.sh`
-  - Installs: `acpi`, `libnotify`
-  - Creates: `~/.config/hypr/scripts/battery-monitor.sh` and user service `battery-monitor.service`
-  - Manage: `systemctl --user status|start|stop battery-monitor`
-- `./install-scripts/disk-monitor.sh`
-  - Installs: `libnotify`
-  - Creates: `~/.config/hypr/scripts/disk-monitor.sh` and user service `disk-monitor.service`
-  - Manage: `systemctl --user status|start|stop disk-monitor`
-- `./install-scripts/temp-monitor.sh`
-  - Installs: `lm_sensors`, `libnotify`
-  - Detects sensors (runs `sudo sensors-detect --auto` once)
-  - Creates: `~/.config/hypr/scripts/temp-monitor.sh` and user service `temp-monitor.service`
-  - Manage: `systemctl --user status|start|stop temp-monitor`
-> Packages above are installed by the respective installer scripts; no manual action is required. If you prefer package pre-install via the main package list, ensure `acpi`, `lm_sensors`, and `libnotify` are present in your setup.
-
-#### 🛣️ Roadmap:
-
-- [ ] show a progress bar in downloading and compiling part when installing outside AUR or official repo
-
-#### ❗ some known issues for nvidia
-
-- reports from members of my discord, states that some users of nvidia are getting stuck on sddm login. credit to @Kenni Fix stated was
-
-```
- while in sddm press ctrl+alt+F2 or F3
-log into your account
-`lspci -nn`, find the id of your nvidia card
-`ls /dev/dri/by-path` find the matching id
-`ls -l /dev/dri/by-path` to check where the symlink points to
-)
-```
-
-- add "env = WLR_DRM_DEVICES,/dev/dri/cardX" to the ENVvariables config `~/.config/hypr/UserConfigs/ENVariables.conf` ; X being where the symlink of the gpu points to
-
+- 
+- 
+  
 - more info from the hyprland wiki [`Hyprland Wiki Link`](https://wiki.hyprland.org/FAQ/#my-external-monitor-is-blank--doesnt-render--receives-no-signal-laptop)
 
 - reports from a member of discord for Nvidia for additional env's
