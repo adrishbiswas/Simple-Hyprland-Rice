@@ -80,9 +80,12 @@ cd ~ && git clone https://github.com/adrishbiswas/Simple-Hyprland-Rice
 
 - This command will clone the dotfiles to the HOME directory.
 
-  **STEP 03-**
-  
--Rename the "local" and "config" folder to ".local" and ".config" respectively and move them to the HOME directory.
+**STEP 03 -**
+
+```bash
+mv ~/Simple-Hyprland-Rice/{local,.local} ~/Simple-Hyprland-Rice/{config,.config} ~/
+```
+-Renames the "local" and "config" folder to ".local" and ".config" respectively and then moves them to the HOME directory.
 
   **STEP 04 -**
 -Reboot the system using 
