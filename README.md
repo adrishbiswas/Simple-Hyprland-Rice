@@ -108,6 +108,13 @@ systemctl reboot
 
 - Subscribe to my Youtube Channel [YouTube](https://www.youtube.com/@adrish.official)
 
-####  Youtube videos (Click to view and watch the playlist) 
+####  More Screenshots and Showoffs ...
 
-[![Youtube Playlist Thumbnail](https://raw.githubusercontent.com/JaKooLit/screenshots/main/Youtube.png)](https://youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx&si=iaNjLulFdsZ6AV-t)
+<p align="center">
+
+<img src="Static-Wallpapers/051-falltree.png" width="300">
+<img src="Static-Wallpapers/Abstract - Nature.jpg" width="300">
+<img src="Static-Wallpapers/Anime - Landscape.jpeg" width="300">
+<img src="Static-Wallpapers/Anime-City-Night.png" width="300">
+<img src="Static-Wallpapers/Anime-Girl-Night-Sky.jpg" width="300">
+<img src="Static-Wallpapers/Anime-Girl-Rain.png" width="300">
