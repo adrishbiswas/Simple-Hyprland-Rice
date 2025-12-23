@@ -49,16 +49,12 @@
 
 ### ANNOUNCEMENT 
 
-- This Repo does not contain Hyprland Dots or configs! Dotfiles can be checked here [`Hyprland-Dots`](https://github.com/JaKooLit/Hyprland-Dots) . During installation, if you opt to copy pre-configured dots, it will be downloaded from that centralized repo.
-- Hyprland-Dots use are constantly evolving / improving. you can check CHANGELOGS here [`Hyprland-Dots-Changelogs`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Changelogs)
-- Since the Hyprland-Dots are evolving, some of the screenshots maybe old
+- Place these dotfiles in a directory where you have write permissions, such as your HOME directory or any folder within it. Using them elsewhere may cause issues.
+- As the Hyprland-Dots are constantly evolving, some of the screenshots may be outdated.
 - This doesn't come with a wallpaper set you can find some nice wallpapers here --> [`REPO`](https://github.com/JaKooLit/Wallpaper-Bank)
 
-> [!IMPORTANT]
-> install a backup tool like `snapper` or `timeshift`. and Backup your system before installing hyprland using this script (HIGHLY RECOMMENDED)
-
 > [!CAUTION]
-> Download this script on a directory where you have write permissions. ie. HOME. Or any directory within your home directory. Else script will fail
+> Make sure that your **Arch Linux** installation is fresh and fully updated or it will cause issuses.
 
 #### 🆕 Installation Guide --
 
