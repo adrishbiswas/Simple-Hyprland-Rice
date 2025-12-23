@@ -64,9 +64,12 @@
 
 #### 🆕 Installation Guide --
 
-- This install script is intended for atleast Server type / Minimal Arch Linux installed.
-
  **STEP 01 -**
+```bash
+sudo pacman -S rofi waybar swww cmatrix cowsay alacritty ttf-jetbrains-mono-nerd power-profiles-daemon impala bluetui witemix
+```
+
+ **STEP 02 -**
 
 ```bash
 git clone https://github.com/adrishbiswas/Simple-Hyprland-Rice
