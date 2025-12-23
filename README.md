@@ -116,5 +116,5 @@ systemctl reboot
 <img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/Hyprland-With-Fastfetch.png" width="300">
 <img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/Background.png" width="300">
 <img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/Tidling-Windows.png" width="300">
-<img src="Static-Wallpapers/Anime-Girl-Night-Sky.jpg" width="300">
-<img src="Static-Wallpapers/Anime-Girl-Rain.png" width="300">
+<img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/rofi-apps.png" width="300">
+<img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/rofi-powermenu.png" width="300">
