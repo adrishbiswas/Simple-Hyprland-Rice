@@ -50,18 +50,6 @@
 
 </div>
 
-###  ANNOUNCEMENT 
-
-- This repo **WILL NOT** install any dependinces you will have to install them manually.
-- Since the Hyprland-Dots are evolving, some of the screenshots maybe old.
-- the wallpaper offered to be downloaded towards the end is from this [`REPO`](https://github.com/JaKooLit/Wallpaper-Bank)
-
-> [!IMPORTANT]
-> Install these dotfiles in a newly fresh installed arch system with no other dotfiles installed.
-
-> [!CAUTION]
-> Download this dotfiles on a directory where you have write permissions. ie. HOME. Or any directory within your home directory. Else moving dotfiles will be **PAIN**.
-
 #### 🆕 Installation Guide --
 
 **STEP 01 -**
