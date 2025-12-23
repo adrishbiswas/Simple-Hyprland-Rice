@@ -70,7 +70,7 @@
 sudo pacman -S rofi waybar swww cmatrix cowsay alacritty ttf-jetbrains-mono-nerd power-profiles-daemon impala bluetui wiremix
 iwd
 ```
--This command will install all the dependencies for dotfiles.
+- This command will install all the dependencies for dotfiles.
 
  **STEP 02 -**
 
@@ -85,14 +85,14 @@ cd ~ && git clone https://github.com/adrishbiswas/Simple-Hyprland-Rice
 ```bash
 mv ~/Simple-Hyprland-Rice/{local,.local} ~/Simple-Hyprland-Rice/{config,.config} ~/
 ```
--Renames the "local" and "config" folder to ".local" and ".config" respectively and then moves them to the HOME directory.
+- Renames the "local" and "config" folder to ".local" and ".config" respectively and then moves them to the HOME directory.
 
   **STEP 04 -**
--Reboot the system using 
+
 ```bash
 systemctl reboot
 ```
-
+- Reboot the system.
 #### ⌨ Keybinds
 
 - Keybinds [`CLICK`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds)
