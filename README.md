@@ -12,14 +12,13 @@
 <div align="center">
 
 <div align="center">
- ~ Adrish's Social Medial ~
+  Adrish's Hyprland-Dots Related Links 
 <br/>
 </div>
 <div align="center">
 <br>
-  <a href="https://www.youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
-  <a href="link"><kbd> <br> Instagram <br> </kbd></a>&ensp;&ensp;
-  <a href="nO"><kbd> <br> ### <br> </kbd></a>&ensp;&ensp;
+  <a href="https://www.youtube.com/@adrish.official"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
+  <a href="https://www.instagram.com/adrish.official/"><kbd> <br> Instagram <br> </kbd></a>&ensp;&ensp;
 </div><br>
 
 <p align="center">
