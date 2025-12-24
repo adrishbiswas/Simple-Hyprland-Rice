@@ -11,8 +11,8 @@
 
 <div align="center">
 <br>
-  <a href="#announcement --"><kbd> <br> Read this First <br> </kbd></a>&ensp;&ensp;
-  <a href="#installation --"><kbd> <br> How to use this script <br> </kbd></a>&ensp;&ensp;
+  <a href="#announcement"><kbd> <br> Read this First <br> </kbd></a>&ensp;&ensp;
+  <a href="#installation"><kbd> <br> How to use this script <br> </kbd></a>&ensp;&ensp;
   <a href="#gallery-and-videos"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
  </div><br>
 
@@ -47,7 +47,7 @@
 
 </div>
 
-### ANNOUNCEMENT --
+### ANNOUNCEMENT 
 
 - Place these dotfiles in a directory where you have write permissions, such as your HOME directory or any folder within it. Using them elsewhere may cause issues.
 - As the Hyprland-Dots are constantly evolving, some of the screenshots may be outdated.
@@ -59,7 +59,7 @@
 > [!CAUTION]
 > Make sure that your **Arch Linux** installation is fresh and fully updated or it will cause issuses.
 
-### INSTALLATION --
+### INSTALLATION 
 
 **STEP 01 -**
  
