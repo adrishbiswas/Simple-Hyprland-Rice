@@ -61,13 +61,13 @@
 
 ### INSTALLATION 
 
-- **STEP 01 -**
+ **STEP 01 -**
  
 ```bash
 sudo pacman -S rofi waybar swww cmatrix cowsay alacritty ttf-jetbrains-mono-nerd power-profiles-daemon impala bluetui wiremix bluez bluez-utils
 iwd
 ```
--- This command will install all the dependencies for dotfiles.
+- This command will install all the dependencies for dotfiles.
 
 - **STEP 02 -**
 
@@ -75,7 +75,7 @@ iwd
 cd ~ && git clone https://github.com/adrishbiswas/Simple-Hyprland-Rice
 ```
 
-  This command will clone the dotfiles to the HOME directory.
+- This command will clone the dotfiles to the HOME directory.
 
 **STEP 03 -**
 
