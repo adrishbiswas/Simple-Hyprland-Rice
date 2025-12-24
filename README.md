@@ -12,23 +12,11 @@
 
 <h3 align="center">Adrish's Hyprland-Dots Related Links</h3>
 
-<a href="https://www.youtube.com/@adrish.official">
-  <kbd>
-    <br>
-    Youtube
-    <br>
-  </kbd>
-</a>
+<a href="https://www.youtube.com/@adrish.official"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
 &nbsp;&nbsp;
-<a href="https://www.instagram.com/adrish.official/">
-  <kbd>
-    <br>
-    Instagram
-    <br>
-  </kbd>
-</a>
+<a href="https://www.instagram.com/adrish.official/"><kbd> <br> Instagram <br> </kbd></a>&ensp;&ensp; </div><br>
 
-<br><br>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
