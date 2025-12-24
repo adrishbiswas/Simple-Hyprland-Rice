@@ -19,7 +19,7 @@
 <br>
   <a href="https://www.youtube.com/playlist?list=PLDtGd5Fw5_GjXCznR0BzCJJDIQSZJRbxx"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
   <a href="link"><kbd> <br> Instagram <br> </kbd></a>&ensp;&ensp;
-  <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds"><kbd> <br> Keybinds <br> </kbd></a>&ensp;&ensp;
+  <a href="nO"><kbd> <br> ### <br> </kbd></a>&ensp;&ensp;
 </div><br>
 
 <p align="center">
