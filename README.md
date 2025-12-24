@@ -1,4 +1,51 @@
-<div align="center"> # Adrish's Arch - Hyprland Dotfiles <p align="center"> <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="400" /> </p> <br/> </div> <div align="center"> <div align="center"> Adrish's Hyprland-Dots Related Links <br/> </div> <div align="center"> <br> <a href="https://www.youtube.com/@adrish.official"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp; <a href="https://www.instagram.com/adrish.official/"><kbd> <br> Instagram <br> </kbd></a>&ensp;&ensp; </div><br> <p align="center"> <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" /> </p> <h3 align="center"> <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" /> Adrish's Hyprland-Dotfiles Showcase <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" alt="Sparkles" width="38" height="38" /> </h3> <div align="center"> <img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/Tidling-Windows.png"> </div> did i forgit to close center tag
+<div align="center">
+
+# Adrish's Arch – Hyprland Dotfiles
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="400" />
+</p>
+
+<br/>
+
+<!-- ================= LINKS ================= -->
+
+<h3 align="center">Adrish's Hyprland-Dots Related Links</h3>
+
+<a href="https://www.youtube.com/@adrish.official">
+  <kbd>
+    <br>
+    Youtube
+    <br>
+  </kbd>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/adrish.official/">
+  <kbd>
+    <br>
+    Instagram
+    <br>
+  </kbd>
+</a>
+
+<br><br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
+</p>
+
+<!-- ================= SHOWCASE ================= -->
+
+<h3 align="center">
+  <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" width="38" height="38" />
+  Adrish's Hyprland-Dotfiles Showcase
+  <img src="https://github.com/JaKooLit/Telegram-Animated-Emojis/blob/main/Activity/Sparkles.webp" width="38" height="38" />
+</h3>
+
+<img src="https://github.com/adrishbiswas/Simple-Hyprland-Rice/blob/main/assets/Tidling-Windows.png" />
+
+</div>
+
 ### ANNOUNCEMENT 
 
 - Place these dotfiles in a directory where you have write permissions, such as your HOME directory or any folder within it. Using them elsewhere may cause issues.
