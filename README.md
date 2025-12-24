@@ -20,7 +20,7 @@
   <a href="https://www.youtube.com/@adrish.official"><kbd> <br> Youtube <br> </kbd></a>&ensp;&ensp;
   <a href="https://www.instagram.com/adrish.official/"><kbd> <br> Instagram <br> </kbd></a>&ensp;&ensp;
 </div><br>
-
+</center>
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
 </p>
