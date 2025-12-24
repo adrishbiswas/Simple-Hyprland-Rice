@@ -12,7 +12,7 @@
 <div align="center">
 
 <div align="center">
- Adrish's Hyprland-Dots Related Links 
+ ~ Adrish's Social Medial ~
 <br/>
 </div>
 <div align="center">
