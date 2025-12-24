@@ -59,7 +59,7 @@
 > [!CAUTION]
 > Make sure that your **Arch Linux** installation is fresh and fully updated or it will cause issuses.
 
-### INSTALLATION 
+### INSTALLATION **-**
 
  **STEP 01 -**
  
@@ -69,7 +69,7 @@ iwd
 ```
 - This command will install all the dependencies for dotfiles.
 
-- **STEP 02 -**
+  **STEP 02 -**
 
 ```bash
 cd ~ && git clone https://github.com/adrishbiswas/Simple-Hyprland-Rice
