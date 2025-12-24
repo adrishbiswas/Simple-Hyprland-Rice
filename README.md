@@ -12,7 +12,7 @@
 <div align="center">
 <br>
   <a href="#announcement"><kbd> <br> Read this First <br> </kbd></a>&ensp;&ensp;
-  <a href="#installation-guide"><kbd> <br> How to use this script <br> </kbd></a>&ensp;&ensp;
+  <a href="#installation"><kbd> <br> How to use this script <br> </kbd></a>&ensp;&ensp;
   <a href="#gallery-and-videos"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
  </div><br>
 
@@ -59,7 +59,7 @@
 > [!CAUTION]
 > Make sure that your **Arch Linux** installation is fresh and fully updated or it will cause issuses.
 
-###### Installation Guide --
+### INSTALLATION 
 
 **STEP 01 -**
  
