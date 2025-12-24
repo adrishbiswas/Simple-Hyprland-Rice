@@ -10,11 +10,6 @@
 </div>
 
 <div align="center">
-<br>
-  <a href="#announcement"><kbd> <br> Read this First <br> </kbd></a>&ensp;&ensp;
-  <a href="#installation"><kbd> <br> How to use this script <br> </kbd></a>&ensp;&ensp;
-  <a href="#gallery-and-videos"><kbd> <br> Gallery <br> </kbd></a>&ensp;&ensp;
- </div><br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="200" />
