@@ -59,7 +59,7 @@
 > [!CAUTION]
 > Make sure that your **Arch Linux** installation is fresh and fully updated or it will cause issuses.
 
-#### 🆕 Installation Guide --
+###### Installation Guide --
 
 **STEP 01 -**
  
