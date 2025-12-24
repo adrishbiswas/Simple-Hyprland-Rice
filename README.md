@@ -64,7 +64,7 @@
 **STEP 01 -**
  
 ```bash
-sudo pacman -S rofi waybar swww cmatrix cowsay alacritty ttf-jetbrains-mono-nerd power-profiles-daemon impala bluetui wiremix
+sudo pacman -S rofi waybar swww cmatrix cowsay alacritty ttf-jetbrains-mono-nerd power-profiles-daemon impala bluetui wiremix bluez bluez-utils
 iwd
 ```
 - This command will install all the dependencies for dotfiles.
