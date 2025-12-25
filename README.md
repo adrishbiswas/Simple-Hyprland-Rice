@@ -80,7 +80,7 @@ systemctl reboot
 
 #### ⌨ Keybinds
 
-- Keybinds [`CLICK`](https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds)
+- Keybinds [`CLICK`](https://wiki.hypr.land/Configuring/Binds/)
 
 > [!TIP]
 > Remember **SUPER KEY = WINDOWS KEY**
